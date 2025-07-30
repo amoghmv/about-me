@@ -1,7 +1,7 @@
 # About-me
 
 ### Hi, I'm Amogh 👋  
-**Not a data wizard. Just someone who likes asking the right questions.**
+**Not a data wizard (I wish). Just someone who likes asking the right questions.**
 
 ---
 
