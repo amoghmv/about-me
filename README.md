@@ -5,7 +5,7 @@
 
 ---
 
-I come from a business and finance background — where data was pretty central, but rarely were utilised to its full potential.  
+I come from a business and finance background,where data was pretty central, but rarely were utilised to its full potential.  
 Over time, I got more interested in systems, patterns, and utilising tools than just staring and reading into dashboards.  
 Let’s just say I didn’t want to spend my life staring at spreadsheets, but also try to understand them and how they answer to my problem.
 
@@ -23,8 +23,10 @@ This isn’t a pivot *away* from finance — it’s a build *on top* of it. I'm 
 
 ### 🏗️ In Progress
 
+**Not only these ones above, but I'm also pursuing MOOCs online and studying subjects like Machine Learning Mathematics, Probability and Programming.**
 - **Indian Road Accident Analysis** — uncovering patterns in timing, geography, and cause  
-- **Airbnb Pricing Project** — predicting price bands from listing features in Indian cities  
+- **Airbnb Pricing Project** — predicting price bands from listing features in Indian cities
+
 
 These aren’t generic portfolio projects. I’m building them to explore real data, uncover patterns, and communicate insights clearly.
 
