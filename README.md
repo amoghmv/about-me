@@ -35,10 +35,10 @@ These aren’t generic portfolio projects. I’m building them to explore real d
 ### 🧰 Interests
 
 - Quantitative analysis rooted in real context  
-- Visual storytelling without making it look overpolished and for show.
+- Visual storytelling without making it look overpolished and 'for show'.
 - Understanding *why* models fail - errors
 - Pattern recognition, process optimization, and open datasets  
-- Learning to understand code and how to make it more optimised
+- Understand code and how to make it more optimised
 
 ---
 
