@@ -23,10 +23,11 @@ This isn’t a pivot *away* from finance — it’s a build *on top* of it. I'm 
 
 ### 🏗️ In Progress
 
-**Not only these ones above, but I'm also pursuing MOOCs and studying subjects like Machine Learning, Mathematics - Probability, Calculus, Algebra, etc. and Programming.**
-- **Indian Road Accident Analysis** — uncovering patterns in timing, geography, and cause  
-- **Airbnb Pricing Project** — predicting price bands from listing features in Indian cities
+**-Not only these ones below, but I'm also pursuing MOOCs and studying subjects like: Machine Learning, Mathematics - Probability, Calculus,Linear Algebra, etc. and Programming.**
 
+- **Stock price prediction and analysis of Apple stock**  
+- **Credit Risk prediction model**
+- **Fraud detection model**
 
 These aren’t generic portfolio projects. I’m building them to explore real data, uncover patterns, and communicate insights clearly.
 
