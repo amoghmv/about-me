@@ -11,7 +11,8 @@ Let’s just say I didn’t want to spend my life staring at spreadsheets, but a
 
 This isn’t a pivot *away* from finance — it’s a build *on top* of it. I'm using finance as a foundation to **explore data, models, and code.**
 
-By the time I realised what I liked, I was 20 years old. I didn't use that as a wall to block me from pursuing it. 
+By the time I realised what I liked, I was 20 years old. I didn't use that as a wall to block me from pursuing it.
+ 
 ---
 
 ### 🔁 Why the Shift?
