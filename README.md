@@ -23,7 +23,4 @@ Not only these ones below, but I'm also actively **investing** and generating **
 - Analysing **financial data**, **stocks** and **cash flows**  
 
 📬 **Let’s Connect**  
-[LinkedIn](https://www.linkedin.com/in/mvamogh) • [GitHub](https://github.com/amoghmv)  
-
-LinkedIn
- • GitHu
+[LinkedIn](https://www.linkedin.com/in/mvamogh) • [GitHub](https://github.com/amoghmv) • [Substack](https://amoghmv.substack.com)  
