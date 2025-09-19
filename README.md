@@ -11,8 +11,8 @@ By the time I realised what I liked, I was 19 years old. I didn’t treat that a
 
 ### 🔁 Why the MERGE?  
 - I've always worked with numbers, but wanted more control over the tools that interpret them  
-- **Business/Finance** taught me to ask the right questions. Now I’m learning how to answer them properly and wisely.  
-- Exploring math, statistics, stock markets, investments, with **finance** as my anchor point and tech as the amplifier  
+- **Business and Finance** taught me to ask the right questions. Now I’m learning how to answer them properly and wisely.  
+- Exploring **math, statistics, stock markets, investments**, with **finance** as my anchor point and tech as the amplifier  
 - Growing interest in **financial analysis**, **investment analysis**, and **risk analysis**, not just as theory but applied with modern tools  
 
 ### 🏗️ In Progress  
