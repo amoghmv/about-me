@@ -15,7 +15,7 @@ By the time I realised what I liked, I was 20 years old. I didn’t treat that a
 - Growing interest in **financial analysis**, **investment analysis**, and **risk analysis**, not just as theory but applied with modern tools  
 
 ### 🏗️ In Progress  
-Not only these ones below, but I'm also actively **investing** and generating **returns from the stock market**, working on my blog and hosting podcasts with people as a passion project, and pursuing MOOCs on **Finance**, Tech, and Programming.  
+Not only these ones below, but I'm also actively **investing** and generating **returns from the stock market**, working on my blog and hosting podcasts with people as a passion project, and pursuing MOOCs on **Finance**, **Mathematics**, and **Programming**.  
 
 ### 🧰 Interests  
 - Building a niche in **finance** through data and tech tools  
