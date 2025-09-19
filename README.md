@@ -6,6 +6,7 @@ Not a **finance wizard** (I wish). Just someone who likes asking the right quest
 - Over time, I got more interested in systems, patterns, and the tools behind them
 
 **I’m deliberately building a niche at the intersection of **finance** and technology, using **financial knowledge** as the foundation to explore **data**, models, and code.**
+
 By the time I realised what I liked, I was 19 years old. I didn’t treat that as a late start, just as a clearer direction.  
 
 ### 🔁 Why the MERGE?  
