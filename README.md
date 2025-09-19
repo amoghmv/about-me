@@ -2,7 +2,7 @@
 
 Not a **finance wizard** (I wish). Just someone who likes asking the right questions.  
 
-- I come from a **business and finance** background, where **data** was pretty central, but rarely used to its full potential.  
+- I come from a **business and finance** background, where **data** was pretty central 
 - Over time, I got more interested in systems, patterns, and the tools behind them, rather than just staring at dashboards.  
 
 I’m deliberately building a niche at the intersection of **finance** and technology, using **financial knowledge** as the foundation to explore **data**, models, and code.  
